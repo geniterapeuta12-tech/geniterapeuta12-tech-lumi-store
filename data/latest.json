@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "updated_at": "2026-07-26T18:40:00Z",
+  "windows": {
+    "version": "39.23.35",
+    "status": "preparing",
+    "download_url": null,
+    "mandatory": false
+  },
+  "mobile": {
+    "version": "39.23.36",
+    "status": "preparing",
+    "download_url": null,
+    "mandatory": false
+  },
+  "store": {
+    "version": "1.0.0",
+    "url": "https://geniterapeuta12-tech.github.io/geniterapeuta12-tech-lumi-store/"
+  }
+}
