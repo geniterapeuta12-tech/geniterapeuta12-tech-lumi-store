@@ -1,0 +1,36 @@
+{
+  "store_version": "1.0.0",
+  "updated_at": "2026-07-26T18:40:00Z",
+  "products": [
+    {
+      "id": "lumi-windows",
+      "name": "Lumi Clínica para Windows",
+      "platform": "windows",
+      "version": "39.23.35",
+      "channel": "stable",
+      "status": "preparing",
+      "download_url": null,
+      "requirements": "Windows 10 ou 11, 64 bits, Microsoft Edge WebView2",
+      "notes": [
+        "Correção das telas de preços e gastos",
+        "Revisão dos principais botões",
+        "Melhorias no financeiro e na navegação"
+      ]
+    },
+    {
+      "id": "lumi-mobile",
+      "name": "Lumi Clínica Mobile",
+      "platform": "mobile",
+      "version": "39.23.36",
+      "channel": "stable",
+      "status": "preparing",
+      "download_url": null,
+      "requirements": "Android com navegador atualizado",
+      "notes": [
+        "Sincronização offline segura",
+        "Acesso direto à Lumi Store",
+        "Clientes, pacotes, sessões, documentos e financeiro"
+      ]
+    }
+  ]
+}
