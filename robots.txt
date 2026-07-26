@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://geniterapeuta12-tech.github.io/geniterapeuta12-tech-lumi-store/sitemap.xml
