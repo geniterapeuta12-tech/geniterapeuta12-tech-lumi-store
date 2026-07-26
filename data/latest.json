@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-07-26T18:40:00Z",
+  "updated_at": "2026-07-26T19:10:00Z",
   "windows": {
     "version": "39.23.35",
     "status": "preparing",
@@ -9,8 +9,8 @@
   },
   "mobile": {
     "version": "39.23.36",
-    "status": "preparing",
-    "download_url": null,
+    "status": "available",
+    "download_url": "downloads/Lumi_Clinica_Mobile_V39_23_36_LUMI_STORE_INTEGRADA.html",
     "mandatory": false
   },
   "store": {
