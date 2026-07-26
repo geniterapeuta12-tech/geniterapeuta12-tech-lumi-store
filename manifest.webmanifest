@@ -1,0 +1,11 @@
+{
+  "name":"Lumi Store",
+  "short_name":"Lumi Store",
+  "description":"Central oficial de versões, atualizações e recursos da Lumi Clínica.",
+  "start_url":"./#inicio",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#fffafd",
+  "theme_color":"#8d2f61",
+  "icons":[{"src":"assets/lumi-mark.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
