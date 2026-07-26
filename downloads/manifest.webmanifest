@@ -1,0 +1,19 @@
+{
+  "name": "Lumi Clínica Mobile",
+  "short_name": "Lumi Clínica",
+  "description": "Gestão da clínica no celular com clientes, agenda, pacotes, documentos e financeiro.",
+  "start_url": "./Lumi_Clinica_Mobile_V39_23_36_LUMI_STORE_INTEGRADA.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f5fa",
+  "theme_color": "#b20b72",
+  "icons": [
+    {
+      "src": "../assets/lumi-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
